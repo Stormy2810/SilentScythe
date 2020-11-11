@@ -7,4 +7,4 @@ This program was made off of https://github.com/azael1337/Jajaja-Account-Nuker. 
 
 ⚠️Everything you can see here has been made for educational purposes and proof of concepts. I do not promote the usage of my tool, I do not take responsability on the bad usage of this tool.⚠️
 
-![alt text](https://cdn.discordapp.com/attachments/765263374619377664/769828669531095060/unknown.png)
+![alt text](https://cdn.discordapp.com/attachments/765263374619377664/775981417787162654/unknown.png)
