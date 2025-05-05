@@ -1,4 +1,2 @@
-selenium
-colorama
-discord.py
 requests
+colorama
