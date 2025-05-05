@@ -1,10 +1,8 @@
-# Taids-Program
-A simple but useful program for Discord. At the moment if only has two features which is tokendox and tokennuke.
+# SilentScythe Program
+A simple but useful program for Discord. At the moment it has Token Dox, Token Nuke, Block All Friends, and Leave All Servers.
 
-Tokendox showing all info related to the token you put. Tokennuke which is going to spam servers, change there theme to black then to white very quickly, and change there language.
-
-This program was made off of https://github.com/azael1337/Jajaja-Account-Nuker. All I did really is take out the stuff that didn't work and add my own name and stuff. So please check out that cool person.
+This program was made off of skidding and ChatGPT💀
 
 ⚠️Everything you can see here has been made for educational purposes and proof of concepts. I do not promote the usage of my tool, I do not take responsability on the bad usage of this tool.⚠️
 
-![alt text](https://cdn.discordapp.com/attachments/765263374619377664/775981417787162654/unknown.png)
+![alt text]([https://cdn.discordapp.com/attachments/765263374619377664/775981417787162654/unknown.png](https://cdn.discordapp.com/attachments/1192716463832834081/1368948862768648335/XL39gnl.png?ex=681a147a&is=6818c2fa&hm=3f58687d88b97284ee415024627dc0d742e0e247d16993323c7bcbf85901435a&))
