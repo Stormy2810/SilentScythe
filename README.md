@@ -10,4 +10,4 @@ How to Run:
 2. Run the install.bat file
 3. Run the SilentScythe.py
 
-![alt text]([https://cdn.discordapp.com/attachments/765263374619377664/775981417787162654/unknown.png](https://cdn.discordapp.com/attachments/1192716463832834081/1368948862768648335/XL39gnl.png?ex=681a147a&is=6818c2fa&hm=3f58687d88b97284ee415024627dc0d742e0e247d16993323c7bcbf85901435a&))
+![Image](https://cdn.discordapp.com/attachments/1192716463832834081/1368948862768648335/XL39gnl.png?ex=681a147a&is=6818c2fa&hm=3f58687d88b97284ee415024627dc0d742e0e247d16993323c7bcbf85901435a&)
