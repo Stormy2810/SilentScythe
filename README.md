@@ -1,7 +1,7 @@
 # SilentScythe Program
 A simple but useful program for Discord. At the moment it has Token Dox, Token Nuke, Block All Friends, and Leave All Servers.
 
-This program was made off of skidding and ChatGPT💀
+This program was made from skidding and ChatGPT💀
 
 ⚠️Everything you can see here has been made for educational purposes and proof of concepts. I do not promote the usage of my tool, I do not take responsability on the bad usage of this tool.⚠️
 
